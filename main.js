@@ -181,7 +181,7 @@ function loadCanvas(url) {
     };
     img.src = url;
 }
-loadCanvas('img/s_n_p_600.png');
+loadCanvas('s_n_p_600.png');
 
 function lineDistance( point1x, point1y, point2x, point2y ) {
     var xs = 0;
